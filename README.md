@@ -1,2 +1,3 @@
-# KodaCreationsWebsite
-A website design made by me.
+# Koda Creations Website
+A website design made by me(Koda).
+
