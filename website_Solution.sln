@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "koda creations", "koda creations", "{A1D0EE9E-9959-4BD6-A616-8D663C9AAFFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "media", "media", "{C6B17A2D-8F28-44BD-83CB-A01DFCD70369}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{4899A199-DEB9-4F34-8DF9-FA1331F53992}"
+	ProjectSection(SolutionItems) = preProject
+		GlobalStyle.css = GlobalStyle.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{EBCCFCD9-28CD-409E-A26F-F74FBB5BDAAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "v0.1", "v0.1", "{DDAD4AC6-5E90-4EA0-9892-A3BECF885E82}"
+	ProjectSection(SolutionItems) = preProject
+		Koda creations\v0.1\HTMLPage1.html = Koda creations\v0.1\HTMLPage1.html
+		Koda creations\v0.1\index.html = Koda creations\v0.1\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{B0C7FA52-3E45-4B10-AD2F-FE343E158F8D}"
+	ProjectSection(SolutionItems) = preProject
+		Koda creations\v0.1\media\img\divin v2.png = Koda creations\v0.1\media\img\divin v2.png
+		Koda creations\v0.1\media\img\WallpaperFusion Image - Sleeping Cheetah (0d07f11420445335a929005d020375af3540ee44).jpg = Koda creations\v0.1\media\img\WallpaperFusion Image - Sleeping Cheetah (0d07f11420445335a929005d020375af3540ee44).jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vid", "vid", "{2E38F11C-80A7-487A-8B14-64E64E176D6C}"
+	ProjectSection(SolutionItems) = preProject
+		Koda creations\v0.1\media\vid\IMG_1899.MP4 = Koda creations\v0.1\media\vid\IMG_1899.MP4
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6B17A2D-8F28-44BD-83CB-A01DFCD70369} = {DDAD4AC6-5E90-4EA0-9892-A3BECF885E82}
+		{4899A199-DEB9-4F34-8DF9-FA1331F53992} = {DDAD4AC6-5E90-4EA0-9892-A3BECF885E82}
+		{EBCCFCD9-28CD-409E-A26F-F74FBB5BDAAA} = {DDAD4AC6-5E90-4EA0-9892-A3BECF885E82}
+		{DDAD4AC6-5E90-4EA0-9892-A3BECF885E82} = {A1D0EE9E-9959-4BD6-A616-8D663C9AAFFB}
+		{B0C7FA52-3E45-4B10-AD2F-FE343E158F8D} = {C6B17A2D-8F28-44BD-83CB-A01DFCD70369}
+		{2E38F11C-80A7-487A-8B14-64E64E176D6C} = {C6B17A2D-8F28-44BD-83CB-A01DFCD70369}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B9A4F5-D668-4757-BC1D-2634711E3505}
+	EndGlobalSection
+EndGlobal
